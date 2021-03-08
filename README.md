@@ -1,6 +1,6 @@
-### [Karthik Kannan](https://www.linkedin.com/in/karthik-kannan-r-544a918) ###
+### [Karthik Kannan](https://www.linkedin.com/in/karthik-kannan-r-544a918). ###
 
-__AI Business Head__ : [ETOP Technologies](http://www.etopdigital.com/).
+#### AI Business Head__ : [ETOP Technologies](http://www.etopdigital.com/). ####
 
 [ETOP TECHNOLOGIES](https://www.linkedin.com/company/etoptechnologies) is a Software Development company. 
 1. We do AI Consulting for Digital Transformation.
@@ -11,7 +11,7 @@ We convert your AI Vision into a reality. Our Services are categorized in to
 2. AI Software Development Services 
 3. AI IOT Development Services 
 
-AI Technologies We use: 
+__AI Technologies We use: 
 
 Vision frameworks: OPEN CV, OPENVX, NVIDIA VISION WORKS
 
@@ -30,9 +30,10 @@ Cloud AI Platform: AWS REKOGNITION, Google AUTOML Vision, Azure Custom Vision
 Edge AI Platform: NVIDIA Jetson, Nvidia Jetson Nano, Jetson Xavier NX, Jetson AGX Xavier, NVIDIA Jetson TX2, Intel NCS, and Google CORAL
 
 
-Industries we serve with AI: Autonomous Car, Healthcare, Retail, Drone Delivery, Warehouse Automation, Robotics, CCTV Security and Surveillance, Satellite Imagery and Precision Agriculture. 
+__Industries we serve with AI:__ Autonomous Car, Healthcare, Retail, Drone Delivery, Warehouse Automation, Robotics, CCTV Security and Surveillance, Satellite Imagery and Precision Agriculture. 
 
-Contact us: 
+__Contact us:__
+
 ETOP Technologies Private Limited 
 
 Plot Number 4, Sridevi Amman Street,

@@ -13,6 +13,8 @@ We convert your AI Vision into a reality. Our Services are categorized in to
 2. AI Software Development Services 
 3. AI IOT Development Services 
 
+- - - - 
+
 __AI Technologies We use:__ 
 
 Vision frameworks: OPEN CV, OPENVX, NVIDIA VISION WORKS
@@ -31,8 +33,11 @@ Cloud AI Platform: AWS REKOGNITION, Google AUTOML Vision, Azure Custom Vision
 
 Edge AI Platform: NVIDIA Jetson, Nvidia Jetson Nano, Jetson Xavier NX, Jetson AGX Xavier, NVIDIA Jetson TX2, Intel NCS, and Google CORAL
 
+- - - - 
 
 __Industries we serve with AI:__ Autonomous Car, Healthcare, Retail, Drone Delivery, Warehouse Automation, Robotics, CCTV Security and Surveillance, Satellite Imagery and Precision Agriculture. 
+
+- - - - 
 
 __Contact us:__
 

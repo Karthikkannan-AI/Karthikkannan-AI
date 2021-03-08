@@ -15,7 +15,7 @@ We convert your AI Vision into a reality. Our Services are categorized in to
 
 - - - - 
 
-__AI Technologies We use:__ 
+### AI Technologies We use: ###
 
 Vision frameworks: __OPEN CV, OPENVX, NVIDIA VISION WORKS__
 
@@ -35,7 +35,7 @@ Edge AI Platform: __NVIDIA Jetson, Nvidia Jetson Nano, Jetson Xavier NX, Jetson 
 
 - - - - 
 
-__Industries we serve with AI:__ 
+### Industries we serve with AI: ###
 
 Autonomous Car,
 
@@ -55,7 +55,7 @@ Satellite Imagery and Precision Agriculture.
 
 - - - - 
 
-__Contact us:__
+### Contact us: ###
 
 ETOP Technologies Private Limited 
 

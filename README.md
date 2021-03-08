@@ -35,7 +35,15 @@ Edge AI Platform: NVIDIA Jetson, Nvidia Jetson Nano, Jetson Xavier NX, Jetson AG
 
 - - - - 
 
-__Industries we serve with AI:__ Autonomous Car, Healthcare, Retail, Drone Delivery, Warehouse Automation, Robotics, CCTV Security and Surveillance, Satellite Imagery and Precision Agriculture. 
+__Industries we serve with AI:__ 
+Autonomous Car,
+Healthcare, 
+Retail, 
+Drone Delivery, 
+Warehouse Automation, 
+Robotics, 
+CCTV Security and Surveillance, 
+Satellite Imagery and Precision Agriculture. 
 
 - - - - 
 

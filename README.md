@@ -17,21 +17,21 @@ We convert your AI Vision into a reality. Our Services are categorized in to
 
 __AI Technologies We use:__ 
 
-Vision frameworks: OPEN CV, OPENVX, NVIDIA VISION WORKS
+Vision frameworks: __OPEN CV, OPENVX, NVIDIA VISION WORKS__
 
-Pipeline Frameworks: NVIDIA DeepStream, Gstreamer 
+Pipeline Frameworks: __NVIDIA DeepStream, Gstreamer__ 
 
-Parallel Computing and GPU Computing Frameworks: OpenCL, CUDA
+Parallel Computing and GPU Computing Frameworks: __OpenCL, CUDA__
 
-AI Frameworks: Tensorflow, Keras, TensoRT, PyTorch
+AI Frameworks: __Tensorflow, Keras, TensoRT, PyTorch__
 
-Robotic Platforms: ROS (Robot Operating System) 
+Robotic Platforms: __ROS (Robot Operating System)__ 
 
-Robotic Simulators: Gazebo
+Robotic Simulators: __Gazebo__
 
-Cloud AI Platform: AWS REKOGNITION, Google AUTOML Vision, Azure Custom Vision
+Cloud AI Platform: __AWS REKOGNITION, Google AUTOML Vision, Azure Custom Vision__
 
-Edge AI Platform: NVIDIA Jetson, Nvidia Jetson Nano, Jetson Xavier NX, Jetson AGX Xavier, NVIDIA Jetson TX2, Intel NCS, and Google CORAL
+Edge AI Platform: __NVIDIA Jetson, Nvidia Jetson Nano, Jetson Xavier NX, Jetson AGX Xavier, NVIDIA Jetson TX2, Intel NCS, and Google CORAL__
 
 - - - - 
 

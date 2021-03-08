@@ -1,6 +1,6 @@
-### [Karthik Kannan](https://www.linkedin.com/in/karthik-kannan-r-544a918). ###
+## [Karthik Kannan](https://www.linkedin.com/in/karthik-kannan-r-544a918). ##
 
-#### AI Business Head : [ETOP Technologies](http://www.etopdigital.com/). ####
+### AI Business Head : [ETOP Technologies](http://www.etopdigital.com/). ###
 
 - - - - 
 

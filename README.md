@@ -21,15 +21,10 @@ Our Services are categorized in to
 ### Contact us: ###
 
 ETOP Technologies Private Limited 
-
 Plot Number 4, Sridevi Amman Street,
-
 Perumal Nagar Extension, 
-
 Old Pallavaram, 
-
 Chennai, Tamil Nadu 600117
-
 INDIA
-
 sales@etopdigital.com
+karthik@etopdigital.com

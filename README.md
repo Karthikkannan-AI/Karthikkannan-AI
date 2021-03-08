@@ -4,7 +4,7 @@
 
 - - - - 
 
-__[ETOP TECHNOLOGIES](https://www.linkedin.com/company/etoptechnologies)__ is a Software Development company. 
+__[ETOP TECHNOLOGIES](https://www.linkedin.com/company/etoptechnologies)__ is an EDGE AI Software Development company. 
 
 1. We do AI Consulting for Digital Transformation.
 2. We build software solutions using emerging technologies for start-ups and enterprises. 

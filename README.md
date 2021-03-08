@@ -1,6 +1,6 @@
 ### [Karthik Kannan](https://www.linkedin.com/in/karthik-kannan-r-544a918). ###
 
-#### AI Business Head__ : [ETOP Technologies](http://www.etopdigital.com/). ####
+#### AI Business Head : [ETOP Technologies](http://www.etopdigital.com/). ####
 
 [ETOP TECHNOLOGIES](https://www.linkedin.com/company/etoptechnologies) is a Software Development company. 
 1. We do AI Consulting for Digital Transformation.

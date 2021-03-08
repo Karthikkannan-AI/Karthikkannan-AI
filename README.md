@@ -11,7 +11,7 @@ We convert your AI Vision into a reality. Our Services are categorized in to
 2. AI Software Development Services 
 3. AI IOT Development Services 
 
-__AI Technologies We use: 
+__AI Technologies We use:__ 
 
 Vision frameworks: OPEN CV, OPENVX, NVIDIA VISION WORKS
 

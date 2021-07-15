@@ -27,5 +27,6 @@ Old Pallavaram,
 Chennai, Tamil Nadu 600117
 INDIA.
 
+kannan.karthik82@gmail.com
 sales@etopdigital.com
 karthik@etopdigital.com
